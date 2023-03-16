@@ -1,6 +1,6 @@
 # Satellite Communications Exercises
 
-In these exercises, we calculate link budget between Satellite and Ground Station, we calculate system temperature, we calculate the Sub-Satellite Point and we use the AGI STK software.
+In these exercises, we calculate link budget between Satellite and Ground Station, we calculate system temperature and we calculate the Sub-Satellite Point.
 
 Language: Greek (Ελληνικά)
 
